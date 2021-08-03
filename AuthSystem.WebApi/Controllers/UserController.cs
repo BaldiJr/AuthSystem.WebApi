@@ -28,7 +28,7 @@ namespace AuthSystem.WebApi.Controllers
 
                 if (createUser.Equals(0))
                 {
-                    return UnprocessableEntity("E-mail já cadastrado!");
+                    return UnprocessableEntity("Erro ao efetuar cadastros. Verifique os dados.");
                 }
 
                 return Ok(createUser);
