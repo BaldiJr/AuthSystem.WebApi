@@ -3,7 +3,7 @@
 # Informações
 Frameworks: Asp.Net 5/Entity Framework  
 Database: SQLite  
-Pattern: Repository 
+Pattern: Repository  
 Testes: XUnit
 
 # Docker for Windows Commands
