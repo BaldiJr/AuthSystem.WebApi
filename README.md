@@ -1,10 +1,10 @@
 # AuthSystem.WebApi
 
-# Informações
+# Informations
 Frameworks: Asp.Net 5/Entity Framework  
 Database: SQLite  
 Pattern: Repository  
-Testes: XUnit
+Tests: XUnit
 
 # Docker for Windows Commands
 docker build -t auth-system -f Dockerfile .\AuthSystem.WebApi\  
